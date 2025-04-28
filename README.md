@@ -20,8 +20,8 @@ Melalui kegiatan puzzle ini, siswa diharapkan mampu:
 
 | No | Judul Puzzle       | Link Puzzle Jigsaw                          |
 |----|--------------------|---------------------------------------------|
-| 1  | Buaya di Sungai     |                            |
-| 2  | Buaya dan Teman-Temannya |                    |
+| 1  | Buaya di Sungai     | https://puzzel.org/en/jigsaw/play?p=-OOu_QpnimUsU5IoWfZU                           |
+| 2  | Buaya dan Teman-Temannya |  https://puzzel.org/en/jigsaw/play?p=-OOu_QpnimUsU5IoWfZU                  |
 
 > 🔗 [[https://puzzel.org/en/jigsaw/play?p=-OOu_QpnimUsU5IoWfZU]
 
