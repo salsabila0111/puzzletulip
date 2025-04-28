@@ -1,45 +1,46 @@
-# Proyek Puzzle Buaya 🐊🌸
+# 🐊 Proyek Puzzle Buaya - Kelas 3
 
-Selamat datang di proyek kelas 3 bertema **Puzzle Buaya**!  
-Proyek ini menggunakan **jigsaw puzzle digital** dengan gambar **bunga** dan **buaya** sebagai media pembelajaran yang menyenangkan dan interaktif.
+Selamat datang di proyek kreatif kelas 3 dengan tema **Puzzle Buaya**!  
+Dalam proyek ini, siswa akan bermain sambil belajar menggunakan media jigsaw puzzle bertema buaya.
 
 ---
 
 ## 🎯 Tujuan Pembelajaran
 
-Melalui kegiatan ini, siswa diharapkan dapat:
+Melalui kegiatan puzzle ini, siswa diharapkan mampu:
 
-- Meningkatkan kemampuan berpikir logis dan pemecahan masalah.
-- Melatih konsentrasi dan ketelitian dalam menyusun bagian-bagian gambar.
-- Mengembangkan koordinasi mata dan tangan melalui aktivitas digital.
-- Mengenali bentuk dan warna melalui gambar bunga dan buaya.
-- Meningkatkan rasa percaya diri saat berhasil menyelesaikan puzzle.
-
----
-
-## 🧩 Link Puzzle Jigsaw
-
-| No | Tema Puzzle      | Link Puzzle Jigsaw                          |
-|----|------------------|---------------------------------------------|
-| 1  | Bunga Ceria       | [[Klik di sini](https://puzzel.org/en/jigsaw/play?p=-OOu_QpnimUsU5IoWfZU)](LINK_PUZZLE_BUNGA)           |
-| 2  | Buaya Lucu        | [[Klik di sini](https://puzzel.org/en/jigsaw/play?p=-OOu_QpnimUsU5IoWfZU)](LINK_PUZZLE_BUAYA)          |
-
-> ⚠️ Silakan ganti `LINK_PUZZLE_BUNGA` dan `LINK_PUZZLE_BUAYA` dengan tautan puzzle jigsaw digital yang digunakan.
+- Mengembangkan kemampuan berpikir logis dan pemecahan masalah.
+- Melatih konsentrasi, kesabaran, dan koordinasi mata-tangan.
+- Mengidentifikasi bentuk, warna, dan pola dari gambar buaya.
+- Meningkatkan daya imajinasi dan kemampuan bercerita berdasarkan gambar.
 
 ---
 
-## 📸 Contoh Gambar Puzzle
+## 🧩 Tautan Puzzle Jigsaw
 
-> (Tambahkan gambar preview puzzle jika ada)
+| No | Judul Puzzle       | Link Puzzle Jigsaw                          |
+|----|--------------------|---------------------------------------------|
+| 1  | Buaya di Sungai     | [Klik di sini](#)                           |
+| 2  | Buaya dan Teman-Temannya | [Klik di sini](#)                    |
 
----
-
-## 👩‍🏫 Catatan untuk Guru
-
-- Gunakan sesi ini untuk mengajak siswa bekerja sama atau secara individu.
-- Pastikan koneksi internet stabil saat membuka puzzle digital.
-- Dorong siswa untuk mendeskripsikan gambar setelah menyelesaikannya (misalnya: warna bunga, ekspresi buaya, dll).
+> 🔗 [[https://puzzel.org/en/jigsaw/play?p=-OOu_QpnimUsU5IoWfZU]
 
 ---
 
-Selamat belajar sambil bermain! 🎉
+## 📌 Petunjuk Penggunaan
+
+1. Klik tautan puzzle di atas.
+2. Susun potongan gambar hingga lengkap.
+3. Setelah selesai, ceritakan isi gambar kepada teman atau guru.
+
+---
+
+## 🧑‍🏫 Catatan untuk Guru
+
+- Kegiatan ini dapat dilakukan secara individu atau kelompok.
+- Bisa digunakan sebagai selingan pembelajaran visual dan motorik halus.
+- Ajak siswa berdiskusi setelah menyelesaikan puzzle untuk menambah wawasan.
+
+---
+
+Selamat menyusun dan bersenang-senang! 🎉
