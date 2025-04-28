@@ -14,15 +14,6 @@ Melalui kegiatan puzzle ini, siswa diharapkan mampu:
 - Mengidentifikasi bentuk, warna, dan pola dari gambar buaya.
 - Meningkatkan daya imajinasi dan kemampuan bercerita berdasarkan gambar.
 
----
-
-## 🧩 Tautan Puzzle Jigsaw
-
-| No | Judul Puzzle       | Link Puzzle Jigsaw                          |
-|----|--------------------|---------------------------------------------|
-| 1  | Buaya di Sungai     | [Klik di sini](#)                           |
-| 2  | Buaya dan Teman-Temannya | [Klik di sini](#)                    |
-
 > 🔗 [[https://puzzel.org/en/jigsaw/play?p=-OOu_QpnimUsU5IoWfZU]
 
 ---
